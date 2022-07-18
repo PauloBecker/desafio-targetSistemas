@@ -45,7 +45,7 @@ public class Exercicio3 {
         double media = 0;
         media = soma/cont;
 
-        System.out.println("Soma faturamento: " + soma);
+        System.out.println("Faturamento total: " + soma);
         System.out.printf("Média faturamento: %.2f ", media);
 
 
